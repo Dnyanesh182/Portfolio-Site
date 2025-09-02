@@ -10,3 +10,27 @@ body {
   background-color: #f9f9f9;
   color: #333;
 }
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.site-header {
+  background: #222;
+  color: #fff;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+}
